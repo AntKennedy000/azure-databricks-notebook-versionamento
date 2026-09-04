@@ -166,4 +166,4 @@ azure-databricks-notebook-versionamento/
 
 Antony Kennedy Ribeiro de Araújo
 
-Projeto desenvolvido como parte do bootcamp da DIO.
+Projeto desenvolvido como parte do bootcamp Microsoft AI for Tech - Azure Databricks da plataforma DIO.
